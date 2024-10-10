@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM integrated full stack website/apps.<br>👯 I’m looking to collaborate on full stack projects.<br>🤝 I’m looking for help with learing AI.<br>🌱 I’m currently learning NLP <br>💬 Ask me about React | NextJs | LLms<br>⚡ Fun fact  Coffee and sleep are the perfect pair in my world!<br><br><br><br><br><br><br>
+🔭 I’m currently working on LLM integrated full stack website/apps.<br>👯 I’m looking to collaborate on full stack projects.<br>🤝 I’m looking for help with learing AI.<br>🌱 I’m currently learning NLP <br>💬 Ask me about React | NextJs | LLMs<br>⚡ Fun fact :- Coffee and sleep are the perfect pair in my world!<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
